@@ -34,7 +34,7 @@ pip install mysql-connector
 ``` 
 Just Clone this repositry : git clone https://github.com/Shashwatsingh22/Online-College-Admission-Management-System-Project.git
 
-```##new
+```
 ## Demo
 ### Main Login Option Page
 ![1](https://raw.githubusercontent.com/Shashwatsingh22/Online-College-Admission-Management-System-Project/main/Demo/1.png)
